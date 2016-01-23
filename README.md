@@ -8,5 +8,8 @@
   - http://fabien.potencier.org/what-is-dependency-injection.html
   - http://symfony.com/doc/current/book/http_fundamentals.html
 
+## Git
+  - https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
 ## Advances
-  - http://vvv.tobiassjosten.net/symfony/update-associated-entities-in-doctrine/
+  - [Doctrine] http://vvv.tobiassjosten.net/symfony/update-associated-entities-in-doctrine/
