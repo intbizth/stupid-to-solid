@@ -10,6 +10,7 @@
 
 ## Git
   - https://www.atlassian.com/git/tutorials/setting-up-a-repository
+  - http://rypress.com/tutorials/git/index
 
 ## Advances
   - [Doctrine] http://vvv.tobiassjosten.net/symfony/update-associated-entities-in-doctrine/
