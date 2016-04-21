@@ -15,3 +15,4 @@
 
 ## Advances
   - [Doctrine] http://vvv.tobiassjosten.net/symfony/update-associated-entities-in-doctrine/
+  - http://aerendir.me/2015/07/03/php-and-doctrine-immutable-objects-value-objects-and-embeddables/
